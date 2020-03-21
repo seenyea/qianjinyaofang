@@ -1,0 +1,26 @@
+{
+  "name": "qianjinyaofang",
+  "version": "1.0.0",
+  "description": "frontend data operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seenyea/qianjinyaofang.git"
+  },
+  "keywords": [
+    "data",
+    "operation"
+  ],
+  "author": "seenyea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seenyea/qianjinyaofang/issues"
+  },
+  "homepage": "https://github.com/seenyea/qianjinyaofang#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
